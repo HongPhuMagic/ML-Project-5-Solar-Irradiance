@@ -5,13 +5,13 @@
 
 The goal of this project was to predict solar irradiance based on a variety of features such as; temperature, pressure, humidity, time, and wind directions.
 
-![](Picture/whole.JPG)
+![](Pictures/whole.JPG)
 
 #### Conclusion
 
 The features that are the most relevant to solar irradiance was temperature(celsius) and day of the year. The random forest regressor was determined to be the best model which produced a mean R2 of 0.868 in cross validation. When comparing test set against the predictions; R2 score, MAE, and RMSE was 0.888, 54.6, and 106.2 was obtained. 
 
-![](Picture/test.JPG)
+![](Pictures/test.JPG)
 
 #### Data Source
 
